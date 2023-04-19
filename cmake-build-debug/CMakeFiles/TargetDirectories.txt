@@ -1,3 +1,0 @@
-/home/darkstone/Desktop/EDD/GUIA0-EJ9/cmake-build-debug/CMakeFiles/GUIA0_EJ9.dir
-/home/darkstone/Desktop/EDD/GUIA0-EJ9/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/darkstone/Desktop/EDD/GUIA0-EJ9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
