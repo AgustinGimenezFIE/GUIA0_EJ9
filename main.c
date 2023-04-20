@@ -1,6 +1,5 @@
 #include <stdio.h>
-/* 9 Defina una función que calcule la longitud de una cadena de caracteres.
- */
+/* 9 Defina una función que calcule la longitud de una cadena de caracteres. */
 int longitudCadena(char cadena[]) {
     int longitud = 0;
     while (cadena[longitud] != '\0') {
